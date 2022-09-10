@@ -1,5 +1,5 @@
 {
-  "name": "@saurabh/rollout-node-sdk",
+  "name": "@saurabharch/rollout-node-sdk",
   "version": "0.0.3",
   "description": "Rollout Nodejs SDK",
   "main": "index.js",
