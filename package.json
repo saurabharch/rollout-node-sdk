@@ -1,0 +1,33 @@
+{
+  "name": "@saurabh/rollout-node-sdk",
+  "version": "0.0.1",
+  "description": "Rollout Nodejs SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Rollout",
+    "nodejs",
+    "chat",
+    "realtime",
+    "chatsdk",
+    "chatapi"
+  ],
+  "author": "Saurabh Kashyap - <saurabh@raindigi.com>",
+  "license": "AGPL-3.0",
+  "homepage": "https://www.rollout.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saurabharch/rollout-node-sdk"
+  },
+  "dependencies": {
+    "chai": "^4.3.0",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.2.7",
+    "mocha": "^8.3.0",
+    "promise": "^8.1.0",
+    "request": "^2.88.2",
+    "winston": "^3.3.3"
+  }
+}
