@@ -73,7 +73,7 @@ var options = {
   // winston.add(winston.transports.MongoDB, 
   //     {
   //      // db: config.databasetest,
-  //       db: 'mongodb://localhost/tiledesk-test',
+  //       db: 'mongodb://localhost/rollout-test',
   //       collection: "logs"
   //     }
   // );
